@@ -66,5 +66,5 @@ Then, add the custom ruleset to the .csproj file with this code snippet (you may
     </PropertyGroup>
 
 ## Frontend
-- A Next.js frontend starter is included under `internal-finance/frontend/` using TypeScript, Tailwind CSS, shadcn/ui-style primitives, and dark mode support.
-- See `internal-finance/frontend/README.md` for setup and running instructions.
+- A Next.js frontend starter is included under `frontend/` using TypeScript, Tailwind CSS, shadcn/ui-style primitives, and dark mode support.
+- See `frontend/README.md` for setup and running instructions.
